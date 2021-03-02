@@ -11,8 +11,7 @@ The application show a list of puppies and user can navigate to puppy detail and
 
 ## :bulb: Motivation and Context
 <!--- Optionally point readers to interesting parts of your submission. -->
-I am especially proud of that I built simple application with Compose!
-
+I have started using compose at the end of Monday, so I am proud that I built even a simple application with Compose! It is just a starting point for greater things with compose :)
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
