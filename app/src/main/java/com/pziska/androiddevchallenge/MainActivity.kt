@@ -16,21 +16,12 @@
 package com.pziska.androiddevchallenge
 
 import android.os.Bundle
-import android.util.Log
 import androidx.activity.compose.setContent
 import androidx.appcompat.app.AppCompatActivity
-import androidx.compose.foundation.layout.Column
-import androidx.compose.foundation.layout.fillMaxWidth
-import androidx.compose.foundation.layout.padding
 import androidx.compose.material.MaterialTheme
 import androidx.compose.material.Surface
-import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
-import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import androidx.compose.ui.unit.dp
-import com.pziska.androiddevchallenge.data.provider.PuppyProvider
-import com.pziska.androiddevchallenge.ui.components.PuppyList
 import com.pziska.androiddevchallenge.ui.navigation.NavGraph
 import com.pziska.androiddevchallenge.ui.theme.MyTheme
 
@@ -68,4 +59,3 @@ fun DarkPreview() {
         MyApp()
     }
 }
-
